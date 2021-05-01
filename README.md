@@ -9,8 +9,7 @@ I am a software engineer from VietNam 🇻🇳. I am interested in reading and d
 - 👯 I’m looking to collaborate with other developers.
 - 📬 Get in touch: sonvo@tutamail.com
 - ![image](https://user-images.githubusercontent.com/78811434/116773820-a081c500-aa8a-11eb-938b-bf36289fe4a1.png)
-LinkedIn: <a href="linkedin.com/in/sondocode/">linkedin.com/in/sondocode/</a>
-
+LinkedIn: [linkedin.com/in/sondocode](https://www.linkedin.com/in/sondocode)
 
 
 
