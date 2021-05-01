@@ -5,13 +5,14 @@
 I'm Son - aka [Dayson]
 
 I am a software engineer from VietNam 🇻🇳. I am interested in reading and developing software solutions for and with Dart, and Flutter framework.
+👯 I’m looking to collaborate with other developers.
 
-- 👯 I’m looking to collaborate with other developers.
-- 📬 Get in touch: sonvo@tutamail.com
+## - 📬 Get in touch:
+- Email: sonvo@tutamail.com
 - ![image](https://user-images.githubusercontent.com/78811434/116773820-a081c500-aa8a-11eb-938b-bf36289fe4a1.png)
 LinkedIn: [linkedin.com/in/sondocode](https://www.linkedin.com/in/sondocode)
 
-
+## ![image](https://user-images.githubusercontent.com/78811434/116774623-674c5380-aa90-11eb-8db0-c08229b246ca.png) My GitHub Stats
 
 <!--
 **sondocode/sondocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
