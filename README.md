@@ -1,5 +1,15 @@
+<img width="100%" alt="Screen Shot 2021-05-01 at 2 15 24 PM" src="https://user-images.githubusercontent.com/78811434/116773473-07ea4580-aa88-11eb-9ebd-4ab10cbaf7a0.png">
+
 ### Hi there 👋
-<img width="659" alt="Screen Shot 2021-05-01 at 2 15 24 PM" src="https://user-images.githubusercontent.com/78811434/116773473-07ea4580-aa88-11eb-9ebd-4ab10cbaf7a0.png">
+
+I'm Son - aka [Dayson]
+I am a software engineer from VietNam 🇻🇳. I am interested in reading and developing software solutions for and with Dart, and Flutter framework.
+
+- 👯 I’m looking to collaborate with other developers.
+- 📬 Get in touch: sonvo@tutamail.com
+- ![image](https://user-images.githubusercontent.com/78811434/116773820-a081c500-aa8a-11eb-938b-bf36289fe4a1.png)
+LinkedIn: linkedin.com/in/sondocode/
+
 
 
 <!--
