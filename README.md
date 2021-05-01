@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img width="659" alt="Screen Shot 2021-05-01 at 2 15 24 PM" src="https://user-images.githubusercontent.com/78811434/116773473-07ea4580-aa88-11eb-9ebd-4ab10cbaf7a0.png">
+
 
 <!--
 **sondocode/sondocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
