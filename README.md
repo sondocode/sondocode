@@ -14,7 +14,7 @@ LinkedIn: [linkedin.com/in/vsonvo](https://www.linkedin.com/in/vsonvo)
 
 
 ## :chart_with_upwards_trend: My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondocode&theme=dark)](https://github.com/sondocode/github-readme-stats)![Sondocode's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondocode&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsonvo&theme=dark)](https://github.com/sondocode/github-readme-stats)![Vsonvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsonvo&show_icons=true&theme=dark)
 
 
 <!--
