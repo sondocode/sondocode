@@ -4,7 +4,7 @@
 
 I'm Son - aka [Dayson]
 
-I am a software engineer from VietNam 🇻🇳. I am interested in reading and developing software solutions for and with Dart, and Flutter framework.
+I am a software engineer from VietNam 🇻🇳. I am interested in reading and developing software solutions.
 I’m looking to collaborate with other developers.
 
 
