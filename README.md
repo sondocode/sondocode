@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Son - aka [Dayson]
+I'm Son
 
 I am a software engineer from VietNam 🇻🇳. I am interested in reading and developing software solutions.
 I’m looking to collaborate with other developers.
