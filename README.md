@@ -12,11 +12,6 @@ I’m looking to collaborate with other developers.
 - ![image](https://user-images.githubusercontent.com/78811434/116773820-a081c500-aa8a-11eb-938b-bf36289fe4a1.png)
 LinkedIn: [linkedin.com/in/vsonvo](https://www.linkedin.com/in/vsonvo)
 
-
-## :chart_with_upwards_trend: My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsonvo&theme=dark)](https://github.com/sondocode/github-readme-stats)![Vsonvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsonvo&show_icons=true&theme=dark)
-
-
 <!--
 **sondocode/sondocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
